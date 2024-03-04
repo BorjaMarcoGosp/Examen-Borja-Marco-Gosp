@@ -58,12 +58,6 @@ header{
 section{
     padding: 0 19%;
 }
-.hero-text h5{
-    font-size: 14px;
-    font-weight: 400;
-    color: white;
-    margin-bottom: 40px;
-}
 .hero-text h1{
     font-size: 90px;
     line-height: 1;
@@ -176,9 +170,7 @@ section{
         font-size: 75px;
         margin: 0 0 30px;
     }
-    .hero-text h5{
-        margin-bottom: 25px;
-    }
+
 }
 @media (max-width: 1195px){
     section{
